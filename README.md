@@ -2,7 +2,7 @@
 Userscript taking advantage of the anki-connect plugin to add cards into your anki desktop from the webbrowser.
 
 # Introduction   
-This [userscript] (https://github.com/OpenUserJs/OpenUserJS.org/wiki/Userscript-beginners-HOWTO) takes advantage of the anki-connect plugin to allow
+This [userscript](https://github.com/OpenUserJs/OpenUserJS.org/wiki/Userscript-beginners-HOWTO) takes advantage of the anki-connect plugin to allow
 the user to create flashcard within seconds by selecting the piece of information he wants to remember.
 I only tested it with Chrome (TamperMonkey extension) and Firefox (GreaseMonkey extension). 
 
