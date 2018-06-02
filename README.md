@@ -1,5 +1,5 @@
 # Anki-monkey
-Userscript taking advantage of the anki-connect plugin to add cards into your anki desktop from the webbrowser.
+Userscript taking advantage of the anki-connect plugin to add cards into your anki desktop from the webbrowser. Before you continue reading, you use Chrome, you will find a much better alternative there: https://github.com/1nsp1r3rnzt/chrome-anki-quick-adder (not mine).
 
 # Introduction   
 This [userscript](https://github.com/OpenUserJs/OpenUserJS.org/wiki/Userscript-beginners-HOWTO) takes advantage of the anki-connect plugin to allow
